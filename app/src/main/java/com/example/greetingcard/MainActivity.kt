@@ -47,4 +47,4 @@ fun GreetingPreview() {
         Greeting("Jorge")
     }
 }
-// Prueba de ver si se actualiza en Github
+// Prueba de ver si se actualiza en AndroidStudio
